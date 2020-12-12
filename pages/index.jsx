@@ -11,7 +11,7 @@ const Portfolio = () => {
       <Head>
         <title>Mohan Singh</title>
       </Head>
-      <Banner bannerText />
+      <Banner bannerText="Hi there 👋 I'm MOHAN SINGH" />
       <SocioLinks />
       <div className="main__banner">
         <div className="image__banner">
